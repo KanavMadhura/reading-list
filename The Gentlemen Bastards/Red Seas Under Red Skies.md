@@ -1,7 +1,7 @@
 ---
 authour: Scott Lynch
 genre: Fantasy
-series: The Gentlmen Bastards / 2
+series: 2
 startedReading:
 finishedReading:
 tags:

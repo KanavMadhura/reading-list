@@ -1,8 +1,0 @@
-# ignore template file
-template/
-
-# ignore .obsidian vault data
-.obsidian/
-
-# ignore DS store
-.DS_Store

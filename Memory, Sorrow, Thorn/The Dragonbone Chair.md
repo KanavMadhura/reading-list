@@ -1,7 +1,7 @@
 ---
 authour: Tad Williams
 genre: Fantasy
-series: Memory, Sorrow, Thorn / 1
+series: 1
 startedReading:
 finishedReading:
 tags:

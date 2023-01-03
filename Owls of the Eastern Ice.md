@@ -1,7 +1,7 @@
 ---
 authour: Jonathan C. Slaght
 genre: Science, Memoir
-series: 
+series: 0
 startedReading:
 finishedReading:
 tags:

@@ -1,7 +1,7 @@
 ---
 authour: James Islington
 genre: Fantasy
-series: The Licanius Trilogy / 1
+series: 1
 startedReading:
 finishedReading:
 tags:

@@ -1,7 +1,7 @@
 ---
 authour: Frank Herbert
 genre: Fantasy, Science Fiction
-series: Dune / 1
+series: 1
 startedReading:
 finishedReading:
 tags:

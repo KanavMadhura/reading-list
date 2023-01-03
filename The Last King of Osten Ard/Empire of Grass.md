@@ -1,7 +1,7 @@
 ---
 authour: Tad Williams
 genre: Fantasy
-series: The Last King of Osten Ard / 2
+series: 2
 startedReading: 03/12/2022
 finishedReading: 29/12/2022
 tags:
